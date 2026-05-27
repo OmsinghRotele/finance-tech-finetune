@@ -1,7 +1,5 @@
 # Fine-Tuning a Domain-Specific AI Model for Finance & Tech
 
-**Assignment Project | Mahesh Sale**
-
 This project fine-tunes `mistralai/Mistral-7B-Instruct-v0.3` using LoRA (Low-Rank Adaptation) to understand domain-specific vocabulary and generate professional responses in the **Finance** and **Tech** industries.
 
 ---
