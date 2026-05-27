@@ -115,7 +115,7 @@ python upload_to_hf.py
 | **GitHub** | This repo — code, scripts, dataset, notebook |
 | **Hugging Face** | The trained LoRA adapter weights |
 
-Model available at: `https://huggingface.co/YOUR_USERNAME/finance-tech-mistral-7b`
+Model available at: `https://huggingface.co/OmsinghRotele/finance-tech-mistral-7b`
 
 ---
 
