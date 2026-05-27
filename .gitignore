@@ -1,0 +1,5 @@
+.config/
+sample_data/
+finance-tech-mistral/
+__pycache__/
+*.pyc
